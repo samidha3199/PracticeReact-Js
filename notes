@@ -1,0 +1,52 @@
+# Task 1:
+
+Create Hello World using HTML.
+
+# Task 2:
+
+Create Hello World using JS.
+
+# Task 3:
+
+Create Hello World using React JS via CDN link.
+
+# Task 4:
+
+Create a nested Elements.
+
+1. <div id="parent">
+       <div id="child">
+           <h1>I am Child</h1>
+       </div>
+   </div>
+
+2. <div id="parent">
+       <div id="child">
+           <h1>I am Child 1.</h1>
+           <h1>I am Child 2.</h1>
+       </div>
+   </div>
+
+3. <div id="parent">
+       <div id="child1">
+           <h1>I am Child 1.</h1>
+           <h2>I am Child 2.</h2>
+       </div>
+       <div id="child2">
+           <h1>I am Child 1.</h1>
+           <h2>I am Child 2.</h2>
+       </div>
+   </div>
+
+# Task 5:
+
+In your existing project
+● - intialize `npm` into your repo
+● - install `react` and `react-dom`
+● - remove CDN links of react
+● - install parcel
+● - ignite your app with parcel
+● - add scripts for “start” and “build” with parcel commands
+● - add `.gitignore` file
+● - add `browserlists`
+● - build a production version of your code using `parcel build`
